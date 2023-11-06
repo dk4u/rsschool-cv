@@ -49,3 +49,20 @@ let user = [
  console.log(user.sort((a,b) => (a.age) - (b.age)))
 ```
 ---
+
+### Experience
+
+---
+
+### Education
+
+1. Self education
+2. Front-end development [course](https://it.easyum.ru/courses/javascript-front-end/) (complete)
+3. Fundamental JavaScript [course](https://stepik.org/course/114165) (in progress)
+4. RS School course «JavaScript/Front-end. Stage 1» (in progress)
+
+---
+
+### English Language
+
+A2 (Elementary)
