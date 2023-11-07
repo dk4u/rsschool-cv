@@ -1,1 +1,1 @@
-https://dk4u.github.io/rsschool-cv/cv
+https://dk4u.github.io/rsschool-cv/
